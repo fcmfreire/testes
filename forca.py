@@ -1,3 +1,4 @@
+# Programinha teste: para aprender trabalhar com strings
 
 print("Desafiante: Entre com uma palavra para seu adversário descobrir: ")
 palavra = input()
